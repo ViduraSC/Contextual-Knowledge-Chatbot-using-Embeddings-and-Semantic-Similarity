@@ -13,6 +13,7 @@ This project implements a contextual knowledge chatbot that leverages embeddings
 - **JSON**: For storing and loading the knowledge base and embeddings.
 
 ## Folder Structure
+```
 Contextual-Knowledge-Chatbot-using-Embeddings-and-Semantic-Similarity/
 │
 ├── app.py                      # Main Flask application
@@ -25,7 +26,7 @@ Contextual-Knowledge-Chatbot-using-Embeddings-and-Semantic-Similarity/
     ├── logo.png               # Company logo
     ├── user-profile-pic.png    # User profile picture
     └── bot-profile-pic.png     # Bot profile picture
-
+```
 ## Installation
 1. Clone the repository:
    ```bash
